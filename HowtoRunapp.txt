@@ -1,0 +1,21 @@
+How to run it?
+
+Development:
+
+cd /eshop
+node debug.js
+
+Production:
+
+cd /eshop
+node release.js
+
+    website for visitors: http://127.0.0.1:8000
+    management: http://127.0.0.1:8000/$manager/ (login: admin, password: admin)
+
+Documentation
+
+    Documentation: Total.js framework
+    Documentation: PayPal express checkout
+    Documentation: jComponent library
+

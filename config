@@ -14,4 +14,9 @@ admin-tracking            : true
 default-image-converter   : gm
 
 // Default theme
-default-theme             : default
+default-theme : default
+
+// IMPORTANT FOR HEROKU
+default-ip                     : auto
+default-port                   : auto
+default-image-converter : im
